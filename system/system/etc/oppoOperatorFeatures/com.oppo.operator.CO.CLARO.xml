@@ -1,0 +1,12 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+    <feature name="oppo.phone.display.vowifi.icon.active" />
+    <feature name="oppo.phone.display.volte.vowifi" />
+    <feature name="oppo.simsettings.show.wificall.in.controlcenter" />
+    <feature name="oppo.commcenter.phone.clear.code.claro" />
+    <feature name="oppo.contacts.calllog.show.volte" />
+    <feature name="oppo.contacts.calllog.show.vowifi" />
+    <feature name="oppo.write.calllog.volte" />
+    <feature name="oppo.write.calllog.vowifi" />
+    <feature name="oppo.phone.hide.hd.icon" />
+</permissions>
